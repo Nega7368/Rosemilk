@@ -20,11 +20,9 @@ public void hardwareResource() {
 		a.softwareResource();
 		
 	}
-	
-	
-	
-	
-	
+	private void snega() {
+		System.out.println("snega");
+	}
 	
 	
 }
