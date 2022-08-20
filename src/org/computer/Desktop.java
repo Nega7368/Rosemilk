@@ -22,6 +22,7 @@ public void hardwareResource() {
 	}
 	private void snega() {
 		System.out.println("snega");
+		System.out.println("Ranjith");
 	}
 	
 	
